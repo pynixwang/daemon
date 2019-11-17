@@ -1,0 +1,9 @@
+name: daemon
+version: 0.1.0
+
+authors:
+  - Pynix Wang <pynix.wang@gmail.com>
+
+crystal: 0.31.1
+
+license: MIT
